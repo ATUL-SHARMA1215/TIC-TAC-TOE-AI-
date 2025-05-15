@@ -22,3 +22,10 @@ An interactive and fun Tic-Tac-Toe game built with **Streamlit**, featuring:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py OR python -m streamlit run app.py
+
+## 🚀 Demo
+
+Check out the live app: [Tic-Tac-Toe AI Web App](## 🚀 Demo
+
+Check out the live app: [Tic-Tac-Toe AI Web App](https://your-username-your-repo-name.streamlit.app)
+)
